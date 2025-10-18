@@ -1,3 +1,5 @@
+# This repo is cloned one. It was used to integrate  Auth0 API security with Digital Ocean agent to develop personal business assitant.
+
 # Assistant0: An AI Personal Assistant Secured with Auth0
 
 Assistant0 an AI personal assistant that consolidates your digital life by dynamically accessing multiple tools to help you stay organized and efficient.
